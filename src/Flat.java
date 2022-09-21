@@ -8,4 +8,7 @@ public class Flat {
         this.city=city;
         this.floor=floor;
     }
+    public int getFloor(){
+        return floor;
+    }
 }
